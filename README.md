@@ -1,2 +1,2 @@
-# Projet Oriented Object Programming 
+# Oriented Object Programming Project
 Logiciel de gestion d'entreprise BDD - Projet POO
